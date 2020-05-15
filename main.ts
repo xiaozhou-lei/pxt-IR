@@ -1,4 +1,4 @@
-//% weight=0 color=#87bc4b icon="\uf1eb" block="InfraRed"
+//% weight=0 color=#87bc4b icon="\uf1eb" block="IR"
 namespace IR {
     export enum encodingType {
         //% block="NEC"
